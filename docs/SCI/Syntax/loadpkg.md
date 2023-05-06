@@ -15,6 +15,7 @@ package.printText() -- Prints 'hello world'
 ```
 :::caution warning
 ScrapPackages can be used malliously, ScrapPackages and NokoDev is not reponsible of any damages caused with it.
+:::
 
 SCI supports a libary manager (Scrap Packages), It allows you to load packages.
 
