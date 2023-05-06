@@ -36,12 +36,16 @@ Draws the display with color AND depth.
 
 - <code>display</code> [<strong> DisplayClass </strong>]: The display to draw.
 
+---
+
 ### setStep(int)
 Sets the step.
 
 <strong>Arguments:</strong> <br></br>
 
 - <code>step</code> [<strong> number </strong>]: The new step.
+
+---
 
 ### getStep()
 Get's the step.
@@ -50,12 +54,16 @@ Get's the step.
 
 - <code>step</code> [<strong> number </strong>]: The current step.
 
+---
+
 ### setDistance(num)
 Sets the Distance.
 
 <strong>Arguments:</strong> <br></br>
 
 - <code>distance</code> [<strong> number </strong>]: The new distance.
+
+---
 
 ### getDistance(num)
 Get's the Distance.
@@ -64,12 +72,16 @@ Get's the Distance.
 
 - <code>distance</code> [<strong> number </strong>]: The current distance.
 
+---
+
 ### setFov(num)
 Sets's the Fov.
 
 <strong>Arguments:</strong> <br></br>
 
 - <code>fov</code> [<strong> number </strong>]: The new fov.
+
+---
 
 ### getFov()
 Get's the Fov.
@@ -78,12 +90,16 @@ Get's the Fov.
 
 - <code>fov</code> [<strong> number </strong>]: The current distance.
 
+---
+
 ### getNextPixel()
 Get's the next pixel.
 
 <strong>Returns:</strong> <br></br>
 
 - <code>pixel</code> [<strong> number </strong>]: The next pixel.
+
+---
 
 ### resetCounter()
 Resets the pixel count to 0
