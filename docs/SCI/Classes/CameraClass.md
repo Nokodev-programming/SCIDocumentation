@@ -103,3 +103,5 @@ Get's the next pixel.
 
 ### resetCounter()
 Resets the pixel count to 0
+
+---
